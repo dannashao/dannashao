@@ -1,5 +1,7 @@
 # I know little in many fields.
-My knowledge base is like knowing how to Hello World in 20+ languages something:
+My knowledge base is like knowing how to Hello World in 20+ languages something
+
+[![logos](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,docker,kubernetes,ubuntu,selenium,ps,html,css,javascript,mysql,matlab,latex&theme=light&perline=20)](https://skillicons.dev)
 
 - Data Science: At least I studied mathematics. (but B)
 - Text Mining/NLP: At least I studied some of it. (but failed)
@@ -10,3 +12,5 @@ My knowledge base is like knowing how to Hello World in 20+ languages something:
 - Digital illustration: At least I spent 10 more years in drawing stupid little pictures with my computer. (but still suck)
 
 At least I know how to python/R. Schools also tried to teach me C++, Java, even asm (what an overestimation)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannashao&langs_count=20&hide=jupyter%20notebook,Tex,HTML&layout=compact) 
