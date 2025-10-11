@@ -1,7 +1,7 @@
 # I know little in many fields.
 My knowledge base is like knowing how to Hello World in 20+ languages something
 
-[![logos](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,docker,kubernetes,ubuntu,selenium,ps,html,css,javascript,mysql,matlab,latex&theme=light&perline=20)](https://skillicons.dev)
+[![logos](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,docker,kubernetes,mysql,mongodb,postgres,ubuntu,selenium,ps,html,css,javascript,typescript,react,matlab,latex&theme=light&perline=20)](https://skillicons.dev)
 
 - Data Science: At least I studied mathematics. (but B)
 - Text Mining/NLP: At least I studied some of it. (but failed)
